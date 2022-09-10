@@ -1,8 +1,9 @@
 Feature,Description,Data Type
 id,unique identifier for each asteroid,int
 name,"name given by NASA, typically a year with a letter-number combination",string
-est_diameter_min,minimum estimated diameter in kilometer for each asteroid - mean of 0.13km with a large outlier at 37.9km,float
-est_diameter_max,maximum estimated diameter in kilometer for each asteroid - mean of 0.28km with a large outlier at 84.7km,float
+est_diameter_min,minimum estimated diameter in kilometers for each asteroid - mean of 0.13km with a large outlier at 37.9km,float
+est_diameter_max,maximum estimated diameter in kilometers for each asteroid - mean of 0.28km with a large outlier at 84.7km,float
 relative_velocity,"velocity of asteroid relative to Earth in kilometers per hour - mean of 48,100 km/hr and median of 44,200 km/hr",float
+miss_distance,distance in kilometers from Earth - mean of 37.1 million Km,float
 absolute_magnitude,describes the luminosity of the asteroid in units H; a smaller H implies a large diameter in general - mean value of 23.5H; min of 9.23H; max of 33.2H,float
 hazardous,boolean feature that describes whether the asteroid is hazardous - 10% are true,binary value where 0 is equal to False and 1 is equal to True
