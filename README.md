@@ -1,6 +1,6 @@
 #machinelearningCS5262
 
-## Assignment 2 - Description of Metrics
+## Description of Metrics
 [comment]: <> (RH: Really cool idea for a project)
 
 Nasa's Center for Near Earth Object Studies (CNEOS) continues to grow as Congress allocates more funding to this division of NASA. Included in this are two major projects. The NEO Surveillance Mission and the Asteroid Redirection Test program. The Surveillance Mission continues to actively detect these NEOs or near earth objects, which are asteroids 99.9% of the time, and gather data on parameters such as size, orbit, and distance. This surveillance is what enables NASA to determine which asteroids could be of any danger to Earth. The Asteroid Redirection Test program, which will be attempting it's first redirection this September of 2022, aims to launch a spacecraft into the trajectory of the asteroid to change it's orbit accordingly.
