@@ -1,5 +1,3 @@
-#machinelearningCS5262
-
 ## Description of Metrics
 [comment]: <> (RH: Really cool idea for a project)
 
